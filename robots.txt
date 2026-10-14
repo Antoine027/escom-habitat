@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://escomhabitat.com/sitemap.xml
